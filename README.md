@@ -15,7 +15,7 @@ The system consists of 2 parts: create model and predict research topics
 2. **Predict Research Topics**
 
 <p align="center">
-  <img src="predict_topics.png" width="700"/>
+  <img src="predict_research_topics.png" width="700"/>
 </p>
 
 ## Basic Commands
