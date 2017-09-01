@@ -9,13 +9,13 @@ The system consists of 2 parts: create model and predict research topics
 1. **Create Model**
 
 <p align="center">
-  <img src="create_model.png" width="700"/>
+  <img src="create_model.png" width="500"/>
 </p>
 
 2. **Predict Research Topics**
 
 <p align="center">
-  <img src="predict_research_topics.png" width="700"/>
+  <img src="predict_research_topics.png" width="500"/>
 </p>
 
 ## Basic Commands
